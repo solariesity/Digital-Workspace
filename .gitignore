@@ -1,0 +1,16 @@
+# Local/personal variants
+D盘文件分类规范.md
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~$*

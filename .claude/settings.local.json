@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"D:\\\\document\\\\Digital-Workspace\" log --oneline -5)",
+      "Bash(Get-ChildItem \"D:\\\\document\\\\Digital-Workspace\" -Name)"
+    ]
+  }
+}

@@ -248,8 +248,7 @@ D:\Archive\
 ```
 D:\Systems\
   AppData_Local\  # 聊天软件接收目录、同步工具缓存、软件工作区
-  Programs\       # 绿色软件、便携工具（无需安装即可运行的 exe）
-  software\       # 历史兼容目录，逐步迁移至 Programs
+  Programs       # 软件安装目录、绿色软件、便携工具
   VM\             # 虚拟机文件、虚拟磁盘、系统镜像
 ```
 
@@ -518,7 +517,6 @@ D:\
   Systems\
     AppData_Local\
     Programs\
-    software\
     VM\
 ```
 

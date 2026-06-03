@@ -180,9 +180,12 @@ D:\Dev\
 D:\Docs\
   Certificates\   # 证书、奖状扫描件
   Forms\          # 常用表格
+  Journal\        # 日记、个人日志
   Official\       # 官方文件（证明、合同）
   Personal\       # 个人文档（简历、求职材料）
 ```
+
+> `Journal/` 用于存放日记或个人日志。按年分目录（如 `2026\`），文件名建议 `YYYY-MM-DD_journal.md`。
 
 ---
 
@@ -486,6 +489,7 @@ D:\
   Docs\
     Certificates\
     Forms\
+    Journal\
     Official\
     Personal\
   Downloads\          # 仅中转

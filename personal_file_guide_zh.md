@@ -248,7 +248,8 @@ D:\Archive\
 ```
 D:\Systems\
   AppData_Local\  # 聊天软件接收目录、同步工具缓存、软件工作区
-  Programs       # 软件安装目录、绿色软件、便携工具
+  Portable\       # 免安装便携工具、绿色软件、单文件 exe
+  Programs\       # 安装版软件
   VM\             # 虚拟机文件、虚拟磁盘、系统镜像
 ```
 
@@ -516,6 +517,7 @@ D:\
     Thesis\
   Systems\
     AppData_Local\
+    Portable\
     Programs\
     VM\
 ```

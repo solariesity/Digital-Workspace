@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(git -C \"D:\\\\document\\\\Digital-Workspace\" log --oneline -5)",
-      "Bash(Get-ChildItem \"D:\\\\document\\\\Digital-Workspace\" -Name)"
+      "Bash(Get-ChildItem \"D:\\\\document\\\\Digital-Workspace\" -Name)",
+      "Bash(Get-ChildItem -Path \"D:\\\\Research\\\\Projects\\\\Digital-Workspace\" -Directory)",
+      "Bash(Select-Object Name)"
     ]
   }
 }

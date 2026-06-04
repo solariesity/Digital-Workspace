@@ -14,6 +14,7 @@
 Digital-Workspace\
   README.md                       # 本文件
   personal_file_guide_zh.md       # 文件整理指南
+  example\                        # 指南对应的目录骨架示例
   .gitignore
 ```
 

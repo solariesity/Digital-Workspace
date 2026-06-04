@@ -138,10 +138,11 @@ D:\Lab\
   GroupMeeting\   # 组会材料
   Reimbursement\  # 报销单据
   Shared\         # 共享材料
+  Tasks\          # 实验室分配的杂活、临时任务
   Templates\      # 模板文件
 ```
 
-> 与个人科研主线直接相关的内容不应长期混放在 `Lab`，而应归入 `Research` 对应项目。
+> `Tasks/` 用于存放实验室分配的杂活、阶段性任务或不值得单独立项的小任务；与个人科研主线直接相关的内容不应长期混放在 `Lab`，而应归入 `Research` 对应项目。
 
 ---
 
@@ -195,6 +196,7 @@ D:\Docs\
 D:\Media\
   Assets\         # 可复用设计资源、参考素材
   Audio\          # 音频
+  Fonts\          # 字体文件
   Images\         # 图片
   Recordings\     # 录屏
   Screenshots\    # 截图
@@ -504,10 +506,12 @@ D:\
     GroupMeeting\
     Reimbursement\
     Shared\
+    Tasks\
     Templates\
   Media\
     Assets\
     Audio\
+    Fonts\
     Images\
     Recordings\
     Screenshots\
